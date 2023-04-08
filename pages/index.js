@@ -8,9 +8,9 @@ import { gql } from '@apollo/client';
 
 export default function Home({ posts }) {
   return (
-    <div className="container">
+    <div className="">
       <Head>
-        <title>Headless WP Next Starter</title>
+        <title>CryptoJobs</title>
         <link rel="icon" href="favicon.ico"></link>
       </Head>
 
