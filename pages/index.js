@@ -19,10 +19,6 @@ export default function Home({ posts }) {
           Headless WordPress Next.js Starter
         </h1>
 
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
-
         <div className="grid">
           {
             posts.map((post) => {
